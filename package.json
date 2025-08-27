@@ -1,0 +1,25 @@
+{
+  "name": "express-main",
+  "version": "1.0.0",
+  "description": "Building a server-side online book review application and integrate it with a secure REST API server which will use authentication at session level using JWT. You will then test your application using Promises callbacks or Async-Await functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-ghai/IBMproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dhruv-ghai/IBMproject/issues"
+  },
+  "homepage": "https://github.com/dhruv-ghai/IBMproject#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "express": "^5.1.0"
+  }
+}
